@@ -79,8 +79,6 @@ Examples:
   us-ashburn-1 us-chicago-1 \
   VM.Standard.E5.Flex 1 16
 
-# Decimal OCPU and memory values are accepted when the selected shape supports them.
-./check_capacity.sh us-phoenix-1 VM.Standard.E6.Flex 0.5 8
 ```
 
 ## Output
